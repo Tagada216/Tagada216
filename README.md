@@ -62,8 +62,6 @@
 
 <br>
 
-![Tagada216's github stats](https://github-readme-stats.vercel.app/api?username=Tagada216&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tagada216&theme=tokyonight) |
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tagada216&theme=tokyonight) |
 
 <br>
