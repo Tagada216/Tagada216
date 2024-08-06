@@ -22,7 +22,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working for Decathlon
+- 🔭 I’m currently working for a Cybersecurity company 
 
 - 💬 Ask me about JavaScript, TypeScript, NodeJS and VueJS
 
